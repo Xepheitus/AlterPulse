@@ -41,6 +41,18 @@ AlterPulse aktif geliştirme sürecindedir. Mevcut özellikler geliştirilebilir
 
 Bu depoda yalnızca hâlihazırda uygulanmış ve doğrulanmış özellikler mevcut işlevler olarak değerlendirilmelidir.
 
+## Güvenlik Taraması
+
+AlterPulse uygulama dosyası, güvenlik değerlendirmesi amacıyla **VirusTotal** üzerinden taranmıştır.
+
+Tarama raporunu aşağıdaki bağlantıdan inceleyebilirsiniz:
+
+🔗 [VirusTotal — AlterPulse Tarama Raporu](https://www.virustotal.com/gui/file/75b7924b086210311479d3e1836c5a6d74dedaac4f52111e243ebe1e65737740?nocache=1)
+
+**Şeffaflık:** VirusTotal raporu, dosyanın çeşitli güvenlik motorları tarafından yapılan taramalarını gösterir. Sonuçlar tek başına yazılımın tamamen güvenli olduğunu garanti etmez.
+
+Kullanıcıların uygulamayı kullanmadan önce raporu incelemeleri önerilir.
+
 ## Kullanım ve Telif Hakları
 
 AlterPulse ve bu depoda bulunan kaynak kodları, aksi açıkça belirtilmediği sürece geliştiricisinin telif hakkı kapsamındadır.
