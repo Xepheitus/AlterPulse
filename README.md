@@ -1,5 +1,7 @@
 # AlterPulse
 
+<img width="1278" height="851" alt="Ekran görüntüsü 2026-10-22 095437" src="https://github.com/user-attachments/assets/de822803-e59f-498d-a4f8-872399e8f199" />
+
 **Every Component. One Vision.**  
 *Her bileşen. Tek bir bakış açısı.*
 
@@ -14,6 +16,9 @@ AlterPulse, Windows 11 için geliştirilmiş, bilgisayar donanımlarını tek bi
 - **Disk Sağlığı Analizi:** Desteklenen depolama birimlerinin S.M.A.R.T. verileri üzerinden bildirilen sağlık durumunu görüntüleme.
 - **Merkezi Sistem Görünümü:** Önemli donanım istatistiklerine tek bir uygulama üzerinden erişme.
 - **Sistem Durumunu Takip:** Donanım bileşenleri hakkında mevcut ölçümleri ve desteklenen sağlık bilgilerini inceleme.
+
+<img width="1265" height="826" alt="Ekran görüntüsü 2026-10-22 095514" src="https://github.com/user-attachments/assets/e23cbe25-af63-421c-b873-1e492a2fa439" />
+<img width="1275" height="833" alt="Ekran görüntüsü 2026-10-22 095457" src="https://github.com/user-attachments/assets/31abb9f5-d369-43df-ada4-ac169e5d828d" />
 
 *Gösterilebilen veriler kullanılan donanıma, sensör desteğine ve sistem tarafından sağlanan bilgilere bağlı olarak değişebilir.*
 
